@@ -1,0 +1,6 @@
+geocoder==1.38.1
+ultralytics==8.1.7
+moviepy==1.0.3
+streamlit==1.29.0
+logging==0.5.1.2
+python-dotenv==
